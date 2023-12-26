@@ -1,0 +1,14 @@
+F:\.Net\day 2-function\function\obj\Debug\net7.0\function.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day 2-function\function\obj\Debug\net7.0\function.AssemblyInfoInputs.cache
+F:\.Net\day 2-function\function\obj\Debug\net7.0\function.AssemblyInfo.cs
+F:\.Net\day 2-function\function\obj\Debug\net7.0\function.csproj.CoreCompileInputs.cache
+F:\.Net\day 2-function\function\bin\Debug\net7.0\function.exe
+F:\.Net\day 2-function\function\bin\Debug\net7.0\function.deps.json
+F:\.Net\day 2-function\function\bin\Debug\net7.0\function.runtimeconfig.json
+F:\.Net\day 2-function\function\bin\Debug\net7.0\function.dll
+F:\.Net\day 2-function\function\bin\Debug\net7.0\function.pdb
+F:\.Net\day 2-function\function\obj\Debug\net7.0\function.dll
+F:\.Net\day 2-function\function\obj\Debug\net7.0\refint\function.dll
+F:\.Net\day 2-function\function\obj\Debug\net7.0\function.pdb
+F:\.Net\day 2-function\function\obj\Debug\net7.0\function.genruntimeconfig.cache
+F:\.Net\day 2-function\function\obj\Debug\net7.0\ref\function.dll

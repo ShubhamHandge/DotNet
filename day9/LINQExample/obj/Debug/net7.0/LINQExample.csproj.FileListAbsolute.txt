@@ -1,0 +1,14 @@
+F:\.Net\day9\LINQExample\bin\Debug\net7.0\LINQExample.exe
+F:\.Net\day9\LINQExample\bin\Debug\net7.0\LINQExample.deps.json
+F:\.Net\day9\LINQExample\bin\Debug\net7.0\LINQExample.runtimeconfig.json
+F:\.Net\day9\LINQExample\bin\Debug\net7.0\LINQExample.dll
+F:\.Net\day9\LINQExample\bin\Debug\net7.0\LINQExample.pdb
+F:\.Net\day9\LINQExample\obj\Debug\net7.0\LINQExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day9\LINQExample\obj\Debug\net7.0\LINQExample.AssemblyInfoInputs.cache
+F:\.Net\day9\LINQExample\obj\Debug\net7.0\LINQExample.AssemblyInfo.cs
+F:\.Net\day9\LINQExample\obj\Debug\net7.0\LINQExample.csproj.CoreCompileInputs.cache
+F:\.Net\day9\LINQExample\obj\Debug\net7.0\LINQExample.dll
+F:\.Net\day9\LINQExample\obj\Debug\net7.0\refint\LINQExample.dll
+F:\.Net\day9\LINQExample\obj\Debug\net7.0\LINQExample.pdb
+F:\.Net\day9\LINQExample\obj\Debug\net7.0\LINQExample.genruntimeconfig.cache
+F:\.Net\day9\LINQExample\obj\Debug\net7.0\ref\LINQExample.dll

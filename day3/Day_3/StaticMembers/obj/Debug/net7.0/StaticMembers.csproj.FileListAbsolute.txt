@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\Day_3\StaticMembers\bin\Debug\net7.0\StaticMembers.exe
+C:\Users\HP\Documents\DotNet\Day_3\StaticMembers\bin\Debug\net7.0\StaticMembers.deps.json
+C:\Users\HP\Documents\DotNet\Day_3\StaticMembers\bin\Debug\net7.0\StaticMembers.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\Day_3\StaticMembers\bin\Debug\net7.0\StaticMembers.dll
+C:\Users\HP\Documents\DotNet\Day_3\StaticMembers\bin\Debug\net7.0\StaticMembers.pdb
+C:\Users\HP\Documents\DotNet\Day_3\StaticMembers\obj\Debug\net7.0\StaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Day_3\StaticMembers\obj\Debug\net7.0\StaticMembers.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Day_3\StaticMembers\obj\Debug\net7.0\StaticMembers.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Day_3\StaticMembers\obj\Debug\net7.0\StaticMembers.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Day_3\StaticMembers\obj\Debug\net7.0\StaticMembers.dll
+C:\Users\HP\Documents\DotNet\Day_3\StaticMembers\obj\Debug\net7.0\refint\StaticMembers.dll
+C:\Users\HP\Documents\DotNet\Day_3\StaticMembers\obj\Debug\net7.0\StaticMembers.pdb
+C:\Users\HP\Documents\DotNet\Day_3\StaticMembers\obj\Debug\net7.0\StaticMembers.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\Day_3\StaticMembers\obj\Debug\net7.0\ref\StaticMembers.dll

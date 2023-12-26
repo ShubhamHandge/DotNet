@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Static_Employee1_Check/1.0.0": {
+        "runtime": {
+          "Static_Employee1_Check.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Static_Employee1_Check/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

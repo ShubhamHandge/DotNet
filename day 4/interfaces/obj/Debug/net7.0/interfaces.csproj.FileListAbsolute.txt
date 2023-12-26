@@ -1,0 +1,14 @@
+F:\.Net\day 4\interfaces\bin\Debug\net7.0\interfaces.exe
+F:\.Net\day 4\interfaces\bin\Debug\net7.0\interfaces.deps.json
+F:\.Net\day 4\interfaces\bin\Debug\net7.0\interfaces.runtimeconfig.json
+F:\.Net\day 4\interfaces\bin\Debug\net7.0\interfaces.dll
+F:\.Net\day 4\interfaces\bin\Debug\net7.0\interfaces.pdb
+F:\.Net\day 4\interfaces\obj\Debug\net7.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day 4\interfaces\obj\Debug\net7.0\interfaces.AssemblyInfoInputs.cache
+F:\.Net\day 4\interfaces\obj\Debug\net7.0\interfaces.AssemblyInfo.cs
+F:\.Net\day 4\interfaces\obj\Debug\net7.0\interfaces.csproj.CoreCompileInputs.cache
+F:\.Net\day 4\interfaces\obj\Debug\net7.0\interfaces.dll
+F:\.Net\day 4\interfaces\obj\Debug\net7.0\refint\interfaces.dll
+F:\.Net\day 4\interfaces\obj\Debug\net7.0\interfaces.pdb
+F:\.Net\day 4\interfaces\obj\Debug\net7.0\interfaces.genruntimeconfig.cache
+F:\.Net\day 4\interfaces\obj\Debug\net7.0\ref\interfaces.dll

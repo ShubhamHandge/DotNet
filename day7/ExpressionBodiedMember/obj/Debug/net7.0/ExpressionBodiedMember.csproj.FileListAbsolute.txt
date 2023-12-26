@@ -1,0 +1,14 @@
+F:\.Net\day7\ExpressionBodiedMember\obj\Debug\net7.0\ExpressionBodiedMember.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day7\ExpressionBodiedMember\obj\Debug\net7.0\ExpressionBodiedMember.AssemblyInfoInputs.cache
+F:\.Net\day7\ExpressionBodiedMember\obj\Debug\net7.0\ExpressionBodiedMember.AssemblyInfo.cs
+F:\.Net\day7\ExpressionBodiedMember\obj\Debug\net7.0\ExpressionBodiedMember.csproj.CoreCompileInputs.cache
+F:\.Net\day7\ExpressionBodiedMember\bin\Debug\net7.0\ExpressionBodiedMember.exe
+F:\.Net\day7\ExpressionBodiedMember\bin\Debug\net7.0\ExpressionBodiedMember.deps.json
+F:\.Net\day7\ExpressionBodiedMember\bin\Debug\net7.0\ExpressionBodiedMember.runtimeconfig.json
+F:\.Net\day7\ExpressionBodiedMember\bin\Debug\net7.0\ExpressionBodiedMember.dll
+F:\.Net\day7\ExpressionBodiedMember\bin\Debug\net7.0\ExpressionBodiedMember.pdb
+F:\.Net\day7\ExpressionBodiedMember\obj\Debug\net7.0\ExpressionBodiedMember.dll
+F:\.Net\day7\ExpressionBodiedMember\obj\Debug\net7.0\refint\ExpressionBodiedMember.dll
+F:\.Net\day7\ExpressionBodiedMember\obj\Debug\net7.0\ExpressionBodiedMember.pdb
+F:\.Net\day7\ExpressionBodiedMember\obj\Debug\net7.0\ExpressionBodiedMember.genruntimeconfig.cache
+F:\.Net\day7\ExpressionBodiedMember\obj\Debug\net7.0\ref\ExpressionBodiedMember.dll

@@ -1,0 +1,14 @@
+F:\.Net\day 5\Arrays\bin\Debug\net7.0\Arrays.exe
+F:\.Net\day 5\Arrays\bin\Debug\net7.0\Arrays.deps.json
+F:\.Net\day 5\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+F:\.Net\day 5\Arrays\bin\Debug\net7.0\Arrays.dll
+F:\.Net\day 5\Arrays\bin\Debug\net7.0\Arrays.pdb
+F:\.Net\day 5\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day 5\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+F:\.Net\day 5\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+F:\.Net\day 5\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+F:\.Net\day 5\Arrays\obj\Debug\net7.0\Arrays.dll
+F:\.Net\day 5\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+F:\.Net\day 5\Arrays\obj\Debug\net7.0\Arrays.pdb
+F:\.Net\day 5\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+F:\.Net\day 5\Arrays\obj\Debug\net7.0\ref\Arrays.dll

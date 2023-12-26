@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee\bin\Debug\net7.0\Static_Employee.exe
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee\bin\Debug\net7.0\Static_Employee.deps.json
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee\bin\Debug\net7.0\Static_Employee.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee\bin\Debug\net7.0\Static_Employee.dll
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee\bin\Debug\net7.0\Static_Employee.pdb
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee\obj\Debug\net7.0\Static_Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee\obj\Debug\net7.0\Static_Employee.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee\obj\Debug\net7.0\Static_Employee.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee\obj\Debug\net7.0\Static_Employee.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee\obj\Debug\net7.0\Static_Employee.dll
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee\obj\Debug\net7.0\refint\Static_Employee.dll
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee\obj\Debug\net7.0\Static_Employee.pdb
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee\obj\Debug\net7.0\Static_Employee.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee\obj\Debug\net7.0\ref\Static_Employee.dll

@@ -1,0 +1,14 @@
+F:\.Net\day7\AnonymousMethodAndLambdas\bin\Debug\net7.0\AnonymousMethodAndLambdas.exe
+F:\.Net\day7\AnonymousMethodAndLambdas\bin\Debug\net7.0\AnonymousMethodAndLambdas.deps.json
+F:\.Net\day7\AnonymousMethodAndLambdas\bin\Debug\net7.0\AnonymousMethodAndLambdas.runtimeconfig.json
+F:\.Net\day7\AnonymousMethodAndLambdas\bin\Debug\net7.0\AnonymousMethodAndLambdas.dll
+F:\.Net\day7\AnonymousMethodAndLambdas\bin\Debug\net7.0\AnonymousMethodAndLambdas.pdb
+F:\.Net\day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\AnonymousMethodAndLambdas.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\AnonymousMethodAndLambdas.AssemblyInfoInputs.cache
+F:\.Net\day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\AnonymousMethodAndLambdas.AssemblyInfo.cs
+F:\.Net\day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\AnonymousMethodAndLambdas.csproj.CoreCompileInputs.cache
+F:\.Net\day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\AnonymousMethodAndLambdas.dll
+F:\.Net\day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\refint\AnonymousMethodAndLambdas.dll
+F:\.Net\day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\AnonymousMethodAndLambdas.pdb
+F:\.Net\day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\AnonymousMethodAndLambdas.genruntimeconfig.cache
+F:\.Net\day7\AnonymousMethodAndLambdas\obj\Debug\net7.0\ref\AnonymousMethodAndLambdas.dll

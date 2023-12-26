@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee1_Check\bin\Debug\net7.0\Static_Employee1_Check.exe
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee1_Check\bin\Debug\net7.0\Static_Employee1_Check.deps.json
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee1_Check\bin\Debug\net7.0\Static_Employee1_Check.runtimeconfig.json
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee1_Check\bin\Debug\net7.0\Static_Employee1_Check.dll
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee1_Check\bin\Debug\net7.0\Static_Employee1_Check.pdb
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee1_Check\obj\Debug\net7.0\Static_Employee1_Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee1_Check\obj\Debug\net7.0\Static_Employee1_Check.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee1_Check\obj\Debug\net7.0\Static_Employee1_Check.AssemblyInfo.cs
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee1_Check\obj\Debug\net7.0\Static_Employee1_Check.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee1_Check\obj\Debug\net7.0\Static_Employee1_Check.dll
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee1_Check\obj\Debug\net7.0\refint\Static_Employee1_Check.dll
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee1_Check\obj\Debug\net7.0\Static_Employee1_Check.pdb
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee1_Check\obj\Debug\net7.0\Static_Employee1_Check.genruntimeconfig.cache
+C:\Users\HP\Documents\DotNet\Day_3\Static_Employee1_Check\obj\Debug\net7.0\ref\Static_Employee1_Check.dll

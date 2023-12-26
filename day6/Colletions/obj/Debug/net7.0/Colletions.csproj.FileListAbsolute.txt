@@ -1,0 +1,14 @@
+F:\.Net\day6\Colletions\bin\Debug\net7.0\Colletions.exe
+F:\.Net\day6\Colletions\bin\Debug\net7.0\Colletions.deps.json
+F:\.Net\day6\Colletions\bin\Debug\net7.0\Colletions.runtimeconfig.json
+F:\.Net\day6\Colletions\bin\Debug\net7.0\Colletions.dll
+F:\.Net\day6\Colletions\bin\Debug\net7.0\Colletions.pdb
+F:\.Net\day6\Colletions\obj\Debug\net7.0\Colletions.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day6\Colletions\obj\Debug\net7.0\Colletions.AssemblyInfoInputs.cache
+F:\.Net\day6\Colletions\obj\Debug\net7.0\Colletions.AssemblyInfo.cs
+F:\.Net\day6\Colletions\obj\Debug\net7.0\Colletions.csproj.CoreCompileInputs.cache
+F:\.Net\day6\Colletions\obj\Debug\net7.0\Colletions.dll
+F:\.Net\day6\Colletions\obj\Debug\net7.0\refint\Colletions.dll
+F:\.Net\day6\Colletions\obj\Debug\net7.0\Colletions.pdb
+F:\.Net\day6\Colletions\obj\Debug\net7.0\Colletions.genruntimeconfig.cache
+F:\.Net\day6\Colletions\obj\Debug\net7.0\ref\Colletions.dll

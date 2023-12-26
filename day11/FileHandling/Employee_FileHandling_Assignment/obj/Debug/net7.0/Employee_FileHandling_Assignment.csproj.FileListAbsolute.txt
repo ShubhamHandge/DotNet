@@ -1,0 +1,14 @@
+F:\.Net\day11\FileHandling\Employee_FileHandling_Assignment\bin\Debug\net7.0\Employee_FileHandling_Assignment.exe
+F:\.Net\day11\FileHandling\Employee_FileHandling_Assignment\bin\Debug\net7.0\Employee_FileHandling_Assignment.deps.json
+F:\.Net\day11\FileHandling\Employee_FileHandling_Assignment\bin\Debug\net7.0\Employee_FileHandling_Assignment.runtimeconfig.json
+F:\.Net\day11\FileHandling\Employee_FileHandling_Assignment\bin\Debug\net7.0\Employee_FileHandling_Assignment.dll
+F:\.Net\day11\FileHandling\Employee_FileHandling_Assignment\bin\Debug\net7.0\Employee_FileHandling_Assignment.pdb
+F:\.Net\day11\FileHandling\Employee_FileHandling_Assignment\obj\Debug\net7.0\Employee_FileHandling_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day11\FileHandling\Employee_FileHandling_Assignment\obj\Debug\net7.0\Employee_FileHandling_Assignment.AssemblyInfoInputs.cache
+F:\.Net\day11\FileHandling\Employee_FileHandling_Assignment\obj\Debug\net7.0\Employee_FileHandling_Assignment.AssemblyInfo.cs
+F:\.Net\day11\FileHandling\Employee_FileHandling_Assignment\obj\Debug\net7.0\Employee_FileHandling_Assignment.csproj.CoreCompileInputs.cache
+F:\.Net\day11\FileHandling\Employee_FileHandling_Assignment\obj\Debug\net7.0\Employee_FileHandling_Assignment.dll
+F:\.Net\day11\FileHandling\Employee_FileHandling_Assignment\obj\Debug\net7.0\refint\Employee_FileHandling_Assignment.dll
+F:\.Net\day11\FileHandling\Employee_FileHandling_Assignment\obj\Debug\net7.0\Employee_FileHandling_Assignment.pdb
+F:\.Net\day11\FileHandling\Employee_FileHandling_Assignment\obj\Debug\net7.0\Employee_FileHandling_Assignment.genruntimeconfig.cache
+F:\.Net\day11\FileHandling\Employee_FileHandling_Assignment\obj\Debug\net7.0\ref\Employee_FileHandling_Assignment.dll

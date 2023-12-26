@@ -1,0 +1,14 @@
+F:\.Net\day6\Generics\obj\Debug\net7.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day6\Generics\obj\Debug\net7.0\Generics.AssemblyInfoInputs.cache
+F:\.Net\day6\Generics\obj\Debug\net7.0\Generics.AssemblyInfo.cs
+F:\.Net\day6\Generics\obj\Debug\net7.0\Generics.csproj.CoreCompileInputs.cache
+F:\.Net\day6\Generics\bin\Debug\net7.0\Generics.exe
+F:\.Net\day6\Generics\bin\Debug\net7.0\Generics.deps.json
+F:\.Net\day6\Generics\bin\Debug\net7.0\Generics.runtimeconfig.json
+F:\.Net\day6\Generics\bin\Debug\net7.0\Generics.dll
+F:\.Net\day6\Generics\bin\Debug\net7.0\Generics.pdb
+F:\.Net\day6\Generics\obj\Debug\net7.0\Generics.dll
+F:\.Net\day6\Generics\obj\Debug\net7.0\refint\Generics.dll
+F:\.Net\day6\Generics\obj\Debug\net7.0\Generics.pdb
+F:\.Net\day6\Generics\obj\Debug\net7.0\Generics.genruntimeconfig.cache
+F:\.Net\day6\Generics\obj\Debug\net7.0\ref\Generics.dll

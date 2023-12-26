@@ -1,0 +1,11 @@
+F:\.Net\TestAccessSpecifier\bin\Debug\net7.0\TestAccessSpecifier.deps.json
+F:\.Net\TestAccessSpecifier\bin\Debug\net7.0\TestAccessSpecifier.dll
+F:\.Net\TestAccessSpecifier\bin\Debug\net7.0\TestAccessSpecifier.pdb
+F:\.Net\TestAccessSpecifier\obj\Debug\net7.0\TestAccessSpecifier.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\TestAccessSpecifier\obj\Debug\net7.0\TestAccessSpecifier.AssemblyInfoInputs.cache
+F:\.Net\TestAccessSpecifier\obj\Debug\net7.0\TestAccessSpecifier.AssemblyInfo.cs
+F:\.Net\TestAccessSpecifier\obj\Debug\net7.0\TestAccessSpecifier.csproj.CoreCompileInputs.cache
+F:\.Net\TestAccessSpecifier\obj\Debug\net7.0\TestAccessSpecifier.dll
+F:\.Net\TestAccessSpecifier\obj\Debug\net7.0\refint\TestAccessSpecifier.dll
+F:\.Net\TestAccessSpecifier\obj\Debug\net7.0\TestAccessSpecifier.pdb
+F:\.Net\TestAccessSpecifier\obj\Debug\net7.0\ref\TestAccessSpecifier.dll

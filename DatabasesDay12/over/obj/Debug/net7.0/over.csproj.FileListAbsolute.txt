@@ -1,0 +1,4 @@
+F:\.Net\DatabasesDay12\over\obj\Debug\net7.0\over.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\DatabasesDay12\over\obj\Debug\net7.0\over.AssemblyInfoInputs.cache
+F:\.Net\DatabasesDay12\over\obj\Debug\net7.0\over.AssemblyInfo.cs
+F:\.Net\DatabasesDay12\over\obj\Debug\net7.0\over.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+F:\.Net\day 5\Ref_value\bin\Debug\net7.0\Ref_value.exe
+F:\.Net\day 5\Ref_value\bin\Debug\net7.0\Ref_value.deps.json
+F:\.Net\day 5\Ref_value\bin\Debug\net7.0\Ref_value.runtimeconfig.json
+F:\.Net\day 5\Ref_value\bin\Debug\net7.0\Ref_value.dll
+F:\.Net\day 5\Ref_value\bin\Debug\net7.0\Ref_value.pdb
+F:\.Net\day 5\Ref_value\obj\Debug\net7.0\Ref_value.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day 5\Ref_value\obj\Debug\net7.0\Ref_value.AssemblyInfoInputs.cache
+F:\.Net\day 5\Ref_value\obj\Debug\net7.0\Ref_value.AssemblyInfo.cs
+F:\.Net\day 5\Ref_value\obj\Debug\net7.0\Ref_value.csproj.CoreCompileInputs.cache
+F:\.Net\day 5\Ref_value\obj\Debug\net7.0\Ref_value.dll
+F:\.Net\day 5\Ref_value\obj\Debug\net7.0\refint\Ref_value.dll
+F:\.Net\day 5\Ref_value\obj\Debug\net7.0\Ref_value.pdb
+F:\.Net\day 5\Ref_value\obj\Debug\net7.0\Ref_value.genruntimeconfig.cache
+F:\.Net\day 5\Ref_value\obj\Debug\net7.0\ref\Ref_value.dll

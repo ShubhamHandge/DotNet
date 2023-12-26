@@ -1,0 +1,14 @@
+F:\.Net\day7\Delegates2\bin\Debug\net7.0\Delegates2.exe
+F:\.Net\day7\Delegates2\bin\Debug\net7.0\Delegates2.deps.json
+F:\.Net\day7\Delegates2\bin\Debug\net7.0\Delegates2.runtimeconfig.json
+F:\.Net\day7\Delegates2\bin\Debug\net7.0\Delegates2.dll
+F:\.Net\day7\Delegates2\bin\Debug\net7.0\Delegates2.pdb
+F:\.Net\day7\Delegates2\obj\Debug\net7.0\Delegates2.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day7\Delegates2\obj\Debug\net7.0\Delegates2.AssemblyInfoInputs.cache
+F:\.Net\day7\Delegates2\obj\Debug\net7.0\Delegates2.AssemblyInfo.cs
+F:\.Net\day7\Delegates2\obj\Debug\net7.0\Delegates2.csproj.CoreCompileInputs.cache
+F:\.Net\day7\Delegates2\obj\Debug\net7.0\Delegates2.dll
+F:\.Net\day7\Delegates2\obj\Debug\net7.0\refint\Delegates2.dll
+F:\.Net\day7\Delegates2\obj\Debug\net7.0\Delegates2.pdb
+F:\.Net\day7\Delegates2\obj\Debug\net7.0\Delegates2.genruntimeconfig.cache
+F:\.Net\day7\Delegates2\obj\Debug\net7.0\ref\Delegates2.dll

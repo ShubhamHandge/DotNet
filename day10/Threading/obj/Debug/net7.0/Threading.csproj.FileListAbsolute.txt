@@ -1,0 +1,14 @@
+F:\.Net\day10\Threading\obj\Debug\net7.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day10\Threading\obj\Debug\net7.0\Threading.AssemblyInfoInputs.cache
+F:\.Net\day10\Threading\obj\Debug\net7.0\Threading.AssemblyInfo.cs
+F:\.Net\day10\Threading\obj\Debug\net7.0\Threading.csproj.CoreCompileInputs.cache
+F:\.Net\day10\Threading\bin\Debug\net7.0\Threading.exe
+F:\.Net\day10\Threading\bin\Debug\net7.0\Threading.deps.json
+F:\.Net\day10\Threading\bin\Debug\net7.0\Threading.runtimeconfig.json
+F:\.Net\day10\Threading\bin\Debug\net7.0\Threading.dll
+F:\.Net\day10\Threading\bin\Debug\net7.0\Threading.pdb
+F:\.Net\day10\Threading\obj\Debug\net7.0\Threading.dll
+F:\.Net\day10\Threading\obj\Debug\net7.0\refint\Threading.dll
+F:\.Net\day10\Threading\obj\Debug\net7.0\Threading.pdb
+F:\.Net\day10\Threading\obj\Debug\net7.0\Threading.genruntimeconfig.cache
+F:\.Net\day10\Threading\obj\Debug\net7.0\ref\Threading.dll

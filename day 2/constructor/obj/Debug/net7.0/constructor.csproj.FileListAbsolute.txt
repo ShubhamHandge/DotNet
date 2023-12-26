@@ -1,0 +1,14 @@
+F:\.Net\day 2-function\constructor\bin\Debug\net7.0\constructor.exe
+F:\.Net\day 2-function\constructor\bin\Debug\net7.0\constructor.deps.json
+F:\.Net\day 2-function\constructor\bin\Debug\net7.0\constructor.runtimeconfig.json
+F:\.Net\day 2-function\constructor\bin\Debug\net7.0\constructor.dll
+F:\.Net\day 2-function\constructor\bin\Debug\net7.0\constructor.pdb
+F:\.Net\day 2-function\constructor\obj\Debug\net7.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day 2-function\constructor\obj\Debug\net7.0\constructor.AssemblyInfoInputs.cache
+F:\.Net\day 2-function\constructor\obj\Debug\net7.0\constructor.AssemblyInfo.cs
+F:\.Net\day 2-function\constructor\obj\Debug\net7.0\constructor.csproj.CoreCompileInputs.cache
+F:\.Net\day 2-function\constructor\obj\Debug\net7.0\constructor.dll
+F:\.Net\day 2-function\constructor\obj\Debug\net7.0\refint\constructor.dll
+F:\.Net\day 2-function\constructor\obj\Debug\net7.0\constructor.pdb
+F:\.Net\day 2-function\constructor\obj\Debug\net7.0\constructor.genruntimeconfig.cache
+F:\.Net\day 2-function\constructor\obj\Debug\net7.0\ref\constructor.dll

@@ -1,0 +1,14 @@
+F:\.Net\day 2-function\FieldsAndPropertise\bin\Debug\net7.0\FieldsAndPropertise.exe
+F:\.Net\day 2-function\FieldsAndPropertise\bin\Debug\net7.0\FieldsAndPropertise.deps.json
+F:\.Net\day 2-function\FieldsAndPropertise\bin\Debug\net7.0\FieldsAndPropertise.runtimeconfig.json
+F:\.Net\day 2-function\FieldsAndPropertise\bin\Debug\net7.0\FieldsAndPropertise.dll
+F:\.Net\day 2-function\FieldsAndPropertise\bin\Debug\net7.0\FieldsAndPropertise.pdb
+F:\.Net\day 2-function\FieldsAndPropertise\obj\Debug\net7.0\FieldsAndPropertise.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day 2-function\FieldsAndPropertise\obj\Debug\net7.0\FieldsAndPropertise.AssemblyInfoInputs.cache
+F:\.Net\day 2-function\FieldsAndPropertise\obj\Debug\net7.0\FieldsAndPropertise.AssemblyInfo.cs
+F:\.Net\day 2-function\FieldsAndPropertise\obj\Debug\net7.0\FieldsAndPropertise.csproj.CoreCompileInputs.cache
+F:\.Net\day 2-function\FieldsAndPropertise\obj\Debug\net7.0\FieldsAndPropertise.dll
+F:\.Net\day 2-function\FieldsAndPropertise\obj\Debug\net7.0\refint\FieldsAndPropertise.dll
+F:\.Net\day 2-function\FieldsAndPropertise\obj\Debug\net7.0\FieldsAndPropertise.pdb
+F:\.Net\day 2-function\FieldsAndPropertise\obj\Debug\net7.0\FieldsAndPropertise.genruntimeconfig.cache
+F:\.Net\day 2-function\FieldsAndPropertise\obj\Debug\net7.0\ref\FieldsAndPropertise.dll

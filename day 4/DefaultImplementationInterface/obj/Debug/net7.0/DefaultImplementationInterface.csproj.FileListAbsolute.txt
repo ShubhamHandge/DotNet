@@ -1,0 +1,14 @@
+F:\.Net\day 4\DefaultImplementationInterface\bin\Debug\net7.0\DefaultImplementationInterface.exe
+F:\.Net\day 4\DefaultImplementationInterface\bin\Debug\net7.0\DefaultImplementationInterface.deps.json
+F:\.Net\day 4\DefaultImplementationInterface\bin\Debug\net7.0\DefaultImplementationInterface.runtimeconfig.json
+F:\.Net\day 4\DefaultImplementationInterface\bin\Debug\net7.0\DefaultImplementationInterface.dll
+F:\.Net\day 4\DefaultImplementationInterface\bin\Debug\net7.0\DefaultImplementationInterface.pdb
+F:\.Net\day 4\DefaultImplementationInterface\obj\Debug\net7.0\DefaultImplementationInterface.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day 4\DefaultImplementationInterface\obj\Debug\net7.0\DefaultImplementationInterface.AssemblyInfoInputs.cache
+F:\.Net\day 4\DefaultImplementationInterface\obj\Debug\net7.0\DefaultImplementationInterface.AssemblyInfo.cs
+F:\.Net\day 4\DefaultImplementationInterface\obj\Debug\net7.0\DefaultImplementationInterface.csproj.CoreCompileInputs.cache
+F:\.Net\day 4\DefaultImplementationInterface\obj\Debug\net7.0\DefaultImplementationInterface.dll
+F:\.Net\day 4\DefaultImplementationInterface\obj\Debug\net7.0\refint\DefaultImplementationInterface.dll
+F:\.Net\day 4\DefaultImplementationInterface\obj\Debug\net7.0\DefaultImplementationInterface.pdb
+F:\.Net\day 4\DefaultImplementationInterface\obj\Debug\net7.0\DefaultImplementationInterface.genruntimeconfig.cache
+F:\.Net\day 4\DefaultImplementationInterface\obj\Debug\net7.0\ref\DefaultImplementationInterface.dll

@@ -1,0 +1,14 @@
+F:\.Net\Day1\dotnetBasic\bin\Debug\net7.0\dotnetBasic.exe
+F:\.Net\Day1\dotnetBasic\bin\Debug\net7.0\dotnetBasic.deps.json
+F:\.Net\Day1\dotnetBasic\bin\Debug\net7.0\dotnetBasic.runtimeconfig.json
+F:\.Net\Day1\dotnetBasic\bin\Debug\net7.0\dotnetBasic.dll
+F:\.Net\Day1\dotnetBasic\bin\Debug\net7.0\dotnetBasic.pdb
+F:\.Net\Day1\dotnetBasic\obj\Debug\net7.0\dotnetBasic.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\Day1\dotnetBasic\obj\Debug\net7.0\dotnetBasic.AssemblyInfoInputs.cache
+F:\.Net\Day1\dotnetBasic\obj\Debug\net7.0\dotnetBasic.AssemblyInfo.cs
+F:\.Net\Day1\dotnetBasic\obj\Debug\net7.0\dotnetBasic.csproj.CoreCompileInputs.cache
+F:\.Net\Day1\dotnetBasic\obj\Debug\net7.0\dotnetBasic.dll
+F:\.Net\Day1\dotnetBasic\obj\Debug\net7.0\refint\dotnetBasic.dll
+F:\.Net\Day1\dotnetBasic\obj\Debug\net7.0\dotnetBasic.pdb
+F:\.Net\Day1\dotnetBasic\obj\Debug\net7.0\dotnetBasic.genruntimeconfig.cache
+F:\.Net\Day1\dotnetBasic\obj\Debug\net7.0\ref\dotnetBasic.dll

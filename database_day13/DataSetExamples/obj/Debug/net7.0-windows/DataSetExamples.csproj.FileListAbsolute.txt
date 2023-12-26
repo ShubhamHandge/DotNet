@@ -1,0 +1,16 @@
+F:\.Net\day13\DataSetExamples\bin\Debug\net7.0-windows\DataSetExamples.exe
+F:\.Net\day13\DataSetExamples\bin\Debug\net7.0-windows\DataSetExamples.deps.json
+F:\.Net\day13\DataSetExamples\bin\Debug\net7.0-windows\DataSetExamples.runtimeconfig.json
+F:\.Net\day13\DataSetExamples\bin\Debug\net7.0-windows\DataSetExamples.dll
+F:\.Net\day13\DataSetExamples\bin\Debug\net7.0-windows\DataSetExamples.pdb
+F:\.Net\day13\DataSetExamples\obj\Debug\net7.0-windows\DataSetExamples.Form1.resources
+F:\.Net\day13\DataSetExamples\obj\Debug\net7.0-windows\DataSetExamples.csproj.GenerateResource.cache
+F:\.Net\day13\DataSetExamples\obj\Debug\net7.0-windows\DataSetExamples.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day13\DataSetExamples\obj\Debug\net7.0-windows\DataSetExamples.AssemblyInfoInputs.cache
+F:\.Net\day13\DataSetExamples\obj\Debug\net7.0-windows\DataSetExamples.AssemblyInfo.cs
+F:\.Net\day13\DataSetExamples\obj\Debug\net7.0-windows\DataSetExamples.csproj.CoreCompileInputs.cache
+F:\.Net\day13\DataSetExamples\obj\Debug\net7.0-windows\DataSetExamples.dll
+F:\.Net\day13\DataSetExamples\obj\Debug\net7.0-windows\refint\DataSetExamples.dll
+F:\.Net\day13\DataSetExamples\obj\Debug\net7.0-windows\DataSetExamples.pdb
+F:\.Net\day13\DataSetExamples\obj\Debug\net7.0-windows\DataSetExamples.genruntimeconfig.cache
+F:\.Net\day13\DataSetExamples\obj\Debug\net7.0-windows\ref\DataSetExamples.dll

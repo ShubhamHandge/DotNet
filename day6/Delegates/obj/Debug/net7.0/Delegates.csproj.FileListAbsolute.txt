@@ -1,0 +1,14 @@
+F:\.Net\day6\Delegates\bin\Debug\net7.0\Delegates.exe
+F:\.Net\day6\Delegates\bin\Debug\net7.0\Delegates.deps.json
+F:\.Net\day6\Delegates\bin\Debug\net7.0\Delegates.runtimeconfig.json
+F:\.Net\day6\Delegates\bin\Debug\net7.0\Delegates.dll
+F:\.Net\day6\Delegates\bin\Debug\net7.0\Delegates.pdb
+F:\.Net\day6\Delegates\obj\Debug\net7.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\day6\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfoInputs.cache
+F:\.Net\day6\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfo.cs
+F:\.Net\day6\Delegates\obj\Debug\net7.0\Delegates.csproj.CoreCompileInputs.cache
+F:\.Net\day6\Delegates\obj\Debug\net7.0\Delegates.dll
+F:\.Net\day6\Delegates\obj\Debug\net7.0\refint\Delegates.dll
+F:\.Net\day6\Delegates\obj\Debug\net7.0\Delegates.pdb
+F:\.Net\day6\Delegates\obj\Debug\net7.0\Delegates.genruntimeconfig.cache
+F:\.Net\day6\Delegates\obj\Debug\net7.0\ref\Delegates.dll

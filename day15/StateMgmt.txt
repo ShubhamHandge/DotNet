@@ -1,0 +1,44 @@
+stateless, connectionless
+
+state management
+1. ViewBag
+only for the current request. values are lost on a redirect
+from controller to view
+dynamic 
+ViewBag.prop = value
+ViewBag.id = id;
+int x = ViewBag.id;
+ViewBag is a wrapper for ViewData
+
+2. ViewData
+only for the current request. values are lost on a redirect
+from controller to view
+dictionary 
+ViewData["key1"] = value
+ViewData["id"] = id;
+int x = (int)ViewData["id"];
+
+3. TempData
+only for the current request. values are NOT lost on a redirect
+from controller to view
+dictionary 
+TempData["key1"] = value
+TempData["id"] = id;
+int x = (int)TempData["id"];
+
+4. Session Variable
+for the same session
+
+what is a session? - interaction between the browser and the server
+when does a session start - first request from browser
+when does a session end - after the timeout is over
+how does the server keep track of a session? - generates a unique sessionId
+how is the sessionid sent to/received from the browser - in a session cookie
+
+5. Cookies
+stored on browser
+available even after session is over
+
+
+
+

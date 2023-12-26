@@ -1,0 +1,14 @@
+F:\.Net\Employee_Assignment\bin\Debug\net7.0\Employee_Assignment.exe
+F:\.Net\Employee_Assignment\bin\Debug\net7.0\Employee_Assignment.deps.json
+F:\.Net\Employee_Assignment\bin\Debug\net7.0\Employee_Assignment.runtimeconfig.json
+F:\.Net\Employee_Assignment\bin\Debug\net7.0\Employee_Assignment.dll
+F:\.Net\Employee_Assignment\bin\Debug\net7.0\Employee_Assignment.pdb
+F:\.Net\Employee_Assignment\obj\Debug\net7.0\Employee_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\Employee_Assignment\obj\Debug\net7.0\Employee_Assignment.AssemblyInfoInputs.cache
+F:\.Net\Employee_Assignment\obj\Debug\net7.0\Employee_Assignment.AssemblyInfo.cs
+F:\.Net\Employee_Assignment\obj\Debug\net7.0\Employee_Assignment.csproj.CoreCompileInputs.cache
+F:\.Net\Employee_Assignment\obj\Debug\net7.0\Employee_Assignment.dll
+F:\.Net\Employee_Assignment\obj\Debug\net7.0\refint\Employee_Assignment.dll
+F:\.Net\Employee_Assignment\obj\Debug\net7.0\Employee_Assignment.pdb
+F:\.Net\Employee_Assignment\obj\Debug\net7.0\Employee_Assignment.genruntimeconfig.cache
+F:\.Net\Employee_Assignment\obj\Debug\net7.0\ref\Employee_Assignment.dll

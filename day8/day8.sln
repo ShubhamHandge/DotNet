@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{BDD3FAFE-B96C-46C1-B1BE-C0174D35FAAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitVariable", "ImplicitVariable\ImplicitVariable.csproj", "{EF7EA510-7736-468C-9248-282EDC31A23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD3FAFE-B96C-46C1-B1BE-C0174D35FAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD3FAFE-B96C-46C1-B1BE-C0174D35FAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD3FAFE-B96C-46C1-B1BE-C0174D35FAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD3FAFE-B96C-46C1-B1BE-C0174D35FAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7EA510-7736-468C-9248-282EDC31A23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7EA510-7736-468C-9248-282EDC31A23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7EA510-7736-468C-9248-282EDC31A23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7EA510-7736-468C-9248-282EDC31A23F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAB75F2F-4930-4B73-B927-F4B5A69982A3}
+	EndGlobalSection
+EndGlobal

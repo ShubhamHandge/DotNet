@@ -1,0 +1,68 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{ 
+}
+<h1>OHHHH.... THIS IS DEFAULT CONTROLLER....!!!! </h1>
+<br />
+
+id=@ViewBag.id  <br />
+
+a=@ViewBag.a <br/>
+
+b=@ViewBag.b <br/>
+
+c=@ViewBag.c <br/>
+
+@{
+    string s = "abc";
+    int i = 100;
+    i = ViewBag.a;
+    int c = ViewBag.c;
+
+}
+
+@{
+    if (i % 2 == 0)
+        s = "Even";
+    else
+        s = "Odd";
+}
+
+
+
+i=@i              
+<br/>
+s=@s
+<br/>
+
+@{
+    if (i % 2 == 0)
+    {
+        @:Result = Even</br>
+    }
+    else
+    {
+        @: Result = Odd</br>
+    }
+}
+
+
+<table border="1">
+    @{
+        for( int j=1; j<5; j++)
+        {
+            <tr>
+                <td>5</td>
+                <td>*</td>
+                <td>@j</td>
+                <td>=</td>
+                <td>@(j*5)</td>
+            </tr>
+        }
+    }
+
+</table>
+
+
+
